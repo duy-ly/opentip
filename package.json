@@ -1,18 +1,15 @@
 {
-  "name": "opentip",
+  "name": "opentip2",
   "version": "2.4.3",
   "description": "Free opensource tooltip class.",
   "keywords": [ "tooltip" ],
   "homepage": "http://www.opentip.org",
-  "main": [
-    "./lib/opentip.js",
-    "./lib/adapter.ender.js"
-  ],
+  "main": "./index.js",
   "maintainers": [
     {
-      "name": "Matias Meno",
-      "email": "m@tias.me",
-      "web": "http://www.matiasmeno.com"
+      "name": "duy.ly",
+      "email": "duy.1407@gmail.com",
+      "web": "https://github.com/duy-ly"
     } 
   ],
   "contributors": [
@@ -23,7 +20,7 @@
     } 
   ],
   "bugs": {
-    "mail": "m@tias.me"
+    "mail": "duy.1407@gmail.com"
   },
   "licenses": [
     {
@@ -34,7 +31,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/enyo/opentip.git" 
+      "url": "https://github.com/duy-ly/opentip.git" 
     } 
   ],
   "scripts": {
